@@ -8,11 +8,7 @@ function App() {
       <header className="bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="container mx-auto px-6 py-24">
           <div className="flex flex-col items-center text-center">
-            <img
-              src="/assests/Rahul-image.jpg"
-              alt="Rahul Kumar"
-              className="w-32 h-32 rounded-full border-4 border-white shadow-xl mb-6"
-            />
+               <img src="assets/Rahul-image.jpg" alt="Rahul Kumar" className="w-32 h-32 rounded-full border-4 border-white shadow-xl mb-6" />
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Rahul Kumar</h1>
             <h2 className="text-xl md:text-2xl mb-6">Software Developer</h2>
             <div className="flex flex-wrap justify-center gap-4 mb-6">
